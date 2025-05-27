@@ -1,0 +1,14 @@
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\bin\Debug\net8.0\LibraryMangementSystem.exe
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\bin\Debug\net8.0\LibraryMangementSystem.deps.json
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\bin\Debug\net8.0\LibraryMangementSystem.runtimeconfig.json
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\bin\Debug\net8.0\LibraryMangementSystem.dll
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\bin\Debug\net8.0\LibraryMangementSystem.pdb
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\obj\Debug\net8.0\LibraryMangementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\obj\Debug\net8.0\LibraryMangementSystem.AssemblyInfoInputs.cache
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\obj\Debug\net8.0\LibraryMangementSystem.AssemblyInfo.cs
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\obj\Debug\net8.0\LibraryMangementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\obj\Debug\net8.0\LibraryMangementSystem.dll
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\obj\Debug\net8.0\refint\LibraryMangementSystem.dll
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\obj\Debug\net8.0\LibraryMangementSystem.pdb
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\obj\Debug\net8.0\LibraryMangementSystem.genruntimeconfig.cache
+C:\Users\Bhagavath\OneDrive\Desktop\LibraryMangementSystem-Solution\LibraryMangementSystem\obj\Debug\net8.0\ref\LibraryMangementSystem.dll
